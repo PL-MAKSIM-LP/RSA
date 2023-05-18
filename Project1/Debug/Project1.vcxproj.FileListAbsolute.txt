@@ -1,0 +1,13 @@
+D:\c++\ds\Project1\Project1\Debug\Project1.MyForm.resources
+D:\c++\ds\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+D:\c++\ds\Project1\Project1\Debug\Project1.vcxproj.CopyComplete
+D:\c++\ds\Project1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\ds\Project1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\ds\Project1\Project1\Debug\Project1.MyForm.resources
+C:\Users\Дима\source\repos\ds\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Дима\source\repos\ds\Project1\Project1\Debug\Project1.vcxproj.CopyComplete
+C:\Users\Max\Desktop\Project1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Max\Desktop\Project1\Project1\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Desktop\Project1\Project1\Debug\Project1.MyForm.resources
+C:\Users\Max\Desktop\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Max\Desktop\Project1\Project1\Debug\Project1.vcxproj.CopyComplete
